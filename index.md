@@ -10,3 +10,4 @@ jhgjhgjh
 ![HighTrusse2](/kaarens/testpage/assets/HighTrussel.jpg)
 
 ![HighTrusse3](/testpage/docs/assets/HighTrussel.jpg)
+<img src="docs/assets/HighTrussel.jpg" alt="hi" class="inline"/>
