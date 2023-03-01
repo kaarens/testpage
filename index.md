@@ -6,3 +6,6 @@ gjhgjh
 jhgjhgjh
 ![HighTrussel](/kaarens/testpage/assets/High Trussel Bridge 1.jpg)
 ![HighTrussel1](/kaarens/testpage/assets/High-Trussel-Bridge-1.jpg)
+
+![HighTrusse2](/kaarens/testpage/assets/HighTrussel.jpg)
+
