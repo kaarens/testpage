@@ -9,3 +9,4 @@ jhgjhgjh
 
 ![HighTrusse2](/kaarens/testpage/assets/HighTrussel.jpg)
 
+![HighTrusse3](/testpage/docs/assets/HighTrussel.jpg)
